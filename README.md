@@ -75,5 +75,4 @@ We welcome contributions to improve this project. If you have suggestions for im
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Thank you for using our outlier detection tool!!I hope it helps you in your data analysis and preprocessing tasks.
-```
 
